@@ -15,14 +15,6 @@ It includes:
 
 ---
 
-## Live Demo / Screenshots
-
-Screenshots included in the repository:
-- `Screenshot 2026-04-28 112315.png`
-- `Screenshot 2026-04-28 112421.png`
-
----
-
 ## Table of Contents
 1. Features
 2. Algorithm Visualisation (How it works)
