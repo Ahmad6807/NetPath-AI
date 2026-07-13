@@ -15,6 +15,11 @@ It includes:
 
 ---
 
+## Relevent Screenshots
+<img width="1858" height="920" alt="image" src="https://github.com/user-attachments/assets/8c70fceb-177e-4404-8753-e299c54ca46a" />
+
+---
+
 ## Table of Contents
 1. Features
 2. Algorithm Visualisation (How it works)
